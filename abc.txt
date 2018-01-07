@@ -1,15 +1,1 @@
-<<<<<<< HEAD
-What's is wrong?
-git push origin master
-
-
-
-dddddd
-
-
-CCCCCC
-
-DDDDD
-=======
 ‘S•”Á‚µ‚Ä‚±‚Ì1s‚¾‚¯
->>>>>>> e8bbce737f7f4795d16edfe6dc405e6b8153e50e
