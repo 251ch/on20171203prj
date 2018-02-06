@@ -1,1 +1,3 @@
-‘S•”Á‚µ‚Ä‚±‚Ì1s‚¾‚¯
+ def clone:
+   print("aaa")
+ 
